@@ -1,0 +1,6 @@
+{
+  "name": "PVE Management Portal",
+  "description": "Demo version of Proxmox VE Integrated Management Dashboard. Provides host monitoring, LXC/KVM guest controls, PM2 process management, security, and a simulated interactive remote terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
